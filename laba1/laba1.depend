@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1479923010 source:/home/mariya/laba1/main.cpp
+	<iostream>
+	<algorithm>
+	<utility>
+	<vector>
+	<cmath>
+	<fstream>
+
+1480017993 source:/home/mariya/university/laba1/main.cpp
+	<iostream>
+	<algorithm>
+	<utility>
+	<cmath>
+	<fstream>
+
